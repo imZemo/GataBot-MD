@@ -91,13 +91,13 @@ global.youtube = yt
 global.ig = 'https://www.instagram.com/destroyerofc._/'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/imZemo/GataBot-MD'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
+global.nn = 'https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
+global.nnn = 'https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD'
 global.nnngrupo = nnn
 
 global.paypal = 'https://paypal.me/OficialGD'
